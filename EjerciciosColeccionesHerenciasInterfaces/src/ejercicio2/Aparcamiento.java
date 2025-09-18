@@ -15,6 +15,7 @@ public void setCapacidad(int capacidad) {
 	this.capacidad = capacidad;
 }
 
+	//ahora vamos a actualizarlo
 	
 	public void introducirVehiculo(Vehiculos v)  {
 		if(capacidad<100) {
